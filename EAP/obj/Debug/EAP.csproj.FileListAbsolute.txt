@@ -1,0 +1,12 @@
+C:\Users\Frank\source\repos\EAP\EAP\bin\Debug\EAP.exe.config
+C:\Users\Frank\source\repos\EAP\EAP\bin\Debug\EAP.exe
+C:\Users\Frank\source\repos\EAP\EAP\bin\Debug\EAP.pdb
+C:\Users\Frank\source\repos\EAP\EAP\obj\Debug\EAP.Properties.Resources.resources
+C:\Users\Frank\source\repos\EAP\EAP\obj\Debug\EAP.csproj.GenerateResource.cache
+C:\Users\Frank\source\repos\EAP\EAP\obj\Debug\EAP.exe
+C:\Users\Frank\source\repos\EAP\EAP\obj\Debug\EAP.pdb
+C:\Users\Frank\source\repos\EAP\EAP\obj\Debug\EAP.Form1.resources
+C:\Users\Frank\source\repos\EAP\EAP\obj\Debug\EAP.FormEAP.resources
+C:\Users\Frank\source\repos\EAP\EAP\obj\Debug\EAP.csprojAssemblyReference.cache
+C:\Users\Frank\source\repos\EAP\EAP\obj\Debug\EAP.FormEAPList.resources
+C:\Users\Frank\source\repos\EAP\EAP\obj\Debug\EAP.Viewer.FormEditEAPList.resources

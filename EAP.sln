@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAP", "EAP\EAP.csproj", "{83FAFFA0-7A0A-431C-8A9E-92549ECC2C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAPTests", "EAPTests\EAPTests.csproj", "{50660DA4-A31F-43F0-A613-4BE9D35A44FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83FAFFA0-7A0A-431C-8A9E-92549ECC2C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FAFFA0-7A0A-431C-8A9E-92549ECC2C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FAFFA0-7A0A-431C-8A9E-92549ECC2C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FAFFA0-7A0A-431C-8A9E-92549ECC2C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50660DA4-A31F-43F0-A613-4BE9D35A44FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50660DA4-A31F-43F0-A613-4BE9D35A44FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50660DA4-A31F-43F0-A613-4BE9D35A44FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50660DA4-A31F-43F0-A613-4BE9D35A44FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DC727DA-898D-4E05-95E7-AE74D2BA60F5}
+	EndGlobalSection
+EndGlobal
